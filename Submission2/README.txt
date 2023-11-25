@@ -8,7 +8,7 @@ Paper title:
 Multimodal Emotion Recognition in Response to Videos
 
 Link to the paper:
-[https://arxiv.org/abs/2002.06177](https://ieeexplore.ieee.org/abstract/document/6095505)
+https://ieeexplore.ieee.org/abstract/document/6095505
 
 Group Number:
 18
